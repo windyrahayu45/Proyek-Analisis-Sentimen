@@ -1,6 +1,0 @@
-Model,Accuracy
-Naive Bayes,95.73770491803279
-Random Forest,96.88524590163935
-Logistic Regression,95.90163934426229
-Decision Tree,99.01639344262296
-Neural Network,96.22950819672131
