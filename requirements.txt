@@ -1,0 +1,9 @@
+requests
+pandas
+time
+re
+nltk
+matplotlib
+seaborn
+textblob
+scikit-learn
